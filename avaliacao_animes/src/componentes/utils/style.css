@@ -1,0 +1,17 @@
+.me-auto{
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 30px; 
+}
+
+.Menu{
+    margin-right: 30px;
+}
+
+.Menu:first-child{
+    margin-left: 30px;
+}
+
+.buttonL .btn{
+    padding: 40px 40px;
+}
